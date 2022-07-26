@@ -1,6 +1,7 @@
 import random
 from dataclasses import dataclass
 
+#Shedule
 
 @dataclass
 class Predmet:
